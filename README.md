@@ -3,6 +3,10 @@
 
 W1 
 
+M1 - mtcars 데이터 분석 
+M2 - SQL Tutorial
+M3 - ETL 프로세스 구현 
+
 W2 
 
 W3 
