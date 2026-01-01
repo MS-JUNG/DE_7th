@@ -3,12 +3,13 @@
 
 ## GDP ETL Pipeline Overview
 
-etl_project_gdp.py
 
 해당 과제는 Wikipedia의 국가별 명목 GDP 데이터를 수집하여,
 국가–대륙(Region) 정보를 결합한 뒤 정제된 JSON 파일로 저장하는 ETL 파이프라인입니다.
 
 ### 1. GDP ETL Pipeline (Wikipedia → JSON)
+
+etl_project_gdp.py
 
 ```text
 main()
